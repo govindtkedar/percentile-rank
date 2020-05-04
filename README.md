@@ -3,7 +3,7 @@ Calculate a Percentile Rank for given array of values.
 ## Install
 
 ```sh
-npm install percentile-rank
+npm install percentile-rank --save
 ```
 
 ## Usage
