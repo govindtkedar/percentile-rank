@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Percentile Rank",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/govindtkedar/percentile-rank"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,5 +15,5 @@
     "rank"
   ],
   "author": "Govind TK",
-  "license": "ISC"
+  "license": "MIT"
 }
