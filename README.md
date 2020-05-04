@@ -18,10 +18,10 @@ const percentileRank = require("percentile-rank");
 const result = percentileRank(
   57,
   [
-    { mark: 10 }, { mark: 57 }, { mark: 33 }, { mark: 70 }, { mark: 44 },{ mark: 15 }, { mark: 20 }, { mark: 60 }
+    { name: 'xyz', score: 10 }, { name: 'xyz', score: 57 }, { name: 'xyz', score: 33 }, {name: 'xyz', score: 70 }, { name: 'xyz', score: 44 },{ name: 'xyz', score: 15 }, { name: 'xyz', score: 20 }, { name: 'xyz', score: 60 }
   ],
    // function to extract a value from an object
-  list => list.mark
+  list => list.score
 );
 console.log(result); // 82 th percentile rank
 
