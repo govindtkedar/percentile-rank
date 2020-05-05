@@ -1,7 +1,7 @@
 {
-  "name": "percentile-rank",
-  "version": "1.0.0",
-  "description": "Percentile Rank",
+  "name": "percentile-range",
+  "version": "1.0.2",
+  "description": "Calculate a percentile rank/range for given array of values.",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -12,6 +12,7 @@
   },
   "keywords": [
     "percentile",
+    "range",
     "rank"
   ],
   "author": "Govind TK",
