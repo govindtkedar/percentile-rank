@@ -7,9 +7,6 @@
     "type": "git",
     "url": "https://github.com/govindtkedar/percentile-rank"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "percentile",
     "range",
