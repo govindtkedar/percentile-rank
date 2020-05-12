@@ -1,4 +1,11 @@
-Calculate a percentile rank/range for given array of values.
+# percentile-range
+[![npm version](https://badge.fury.io/js/percentile-range.svg)](https://badge.fury.io/js/percentile-range)
+![Travis (.org)](https://img.shields.io/travis/govindtkedar/percentile-rank)
+![NPM](https://img.shields.io/npm/l/percentile-range?color=g)
+![GitHub contributors](https://img.shields.io/github/contributors/govindtkedar/percentile-rank?color=g)
+![GitHub issues](https://img.shields.io/github/issues/govindtkedar/percentile-rank)
+
+Calculate a percentile rank/range for a given array of values.
 
 ## Install
 
